@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "lerna": "^3.13.1"
+  },
+  "dependencies": {
+    "@asbjorn/eslint-plugin-groq": "^0.1.2",
+    "groq": "^0.145.0"
   }
 }
